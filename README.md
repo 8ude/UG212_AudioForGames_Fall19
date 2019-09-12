@@ -3,7 +3,21 @@ Repo for the 2019 class of audio for digital games
 
 See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki) for Syllabus, Helpful Links, and Assignment Details
 
+WEEK 2 ASSIGNMENTS
+------
+
+Reading - the reading from week 1 is posted on the syllabus.  You don't need to revisit it, if you think you understood it the first time.  The Transforms and Notations section has some interactive Fourier transform things, but I personally like this website better (courtesy of Mai) - http://www.jezzamon.com/fourier/index.html
+
+Sound Collage - Create a 3-5 minute “story” (whatever that means to you) using samples sourced from the Audio for Digital Games Library or Freesound.org.  Experiment with different sample rates, bit depths, and sculpting using filters and EQ.
+
+Also, Mai posted this in the Slack - https://learningsynths.ableton.com
+
+Try going through it!  We're going to be doing a bit with synthesis in Reaper, but this is a much more fun walkthrough.
+
+
+
 WEEK 1 ASSIGNMENTS
+------
 
 Reading - [Seeing Circles Signs & Signals: “Intro, Signals & Sound” & “Sines & Sampling”](https://jackschaedler.github.io/circles-sines-signals/); please finish reading by Tuesday, September 10
 
