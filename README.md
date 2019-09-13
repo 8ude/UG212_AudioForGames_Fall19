@@ -8,7 +8,7 @@ WEEK 2 ASSIGNMENTS
 
 Reading - the reading from week 1 is posted on the syllabus.  You don't need to revisit it, if you think you understood it the first time.  The Transforms and Notations section has some interactive Fourier transform things, but I personally like this website better (courtesy of Mai) - http://www.jezzamon.com/fourier/index.html
 
-Sound Collage - Create a 3-5 minute “story” (whatever that means to you) using samples sourced from the Audio for Digital Games Library or Freesound.org.  Experiment with different sample rates, bit depths, and sculpting using filters and EQ.
+Sound Collage - Create a 3-5 minute “story” (whatever that means to you) using samples sourced from the Audio for Digital Games Library or Freesound.org.  Experiment with different sample rates, bit depths, and sculpting using filters and EQ. [Render and upload your Sound Collages here](https://drive.google.com/drive/folders/1RujiXd8HTTlCmF6821k2iVFov2_y94d1?usp=sharing) when you're done!
 
 Also, Mai posted this in the Slack - https://learningsynths.ableton.com
 
