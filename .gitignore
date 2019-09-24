@@ -24,7 +24,7 @@ Bin.meta
 !/[Aa]ssets/**/*.meta
 
 # Visual Studio 2015 cache directory
-/.vs/
+*/.vs/
 
 # Ignore Jetbrains Plugin
 /[Aa]ssets/Plugins/Editor/JetBrains.meta

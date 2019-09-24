@@ -63,8 +63,6 @@ public class AudioDirector : MonoBehaviour
     [Tooltip("for scoring sounds, we have an array, and will pick a sound at random when we score")]
     public AudioClip[] matchSounds;
     [Range(0f, 1f)] public float matchVolume = 1.0f;
-    public AudioClip dangerLoop;
-    [Range(0f, 1f)] public float dangerVolume = 1.0f;
     public AudioClip gameOverSound;
     [Range(0f, 1f)] public float gameOverVolume = 1.0f;
 
@@ -86,6 +84,9 @@ public class AudioDirector : MonoBehaviour
 
     [Header("Loops and Background")] public AudioClip backgroundMusic;
     [Range(0f, 1f)] public float musicVolume = 1.0f;
+    [Tooltip("This is a loop that plays when the blocks get close to the top, which triggers a game over")]
+    public AudioClip dangerLoop;
+    [Range(0f, 1f)] public float dangerVolume = 1.0f;
 
 
     /// <summary>
