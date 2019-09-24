@@ -20,7 +20,7 @@ You are free to make any code modifications... as long as they only affect the a
 You will lose points for:
 * Any Unmodified samples.  You need to modify the sounds from freesound or the library in some way (changing pitch, layering, stretching, adding effects, etc).  The sounds in the library were not made for this game.  That's like serving a raw egg on a plate for dinner.
 * Repeating sounds for different actions (for example, using the same sound for "jump" as for "throw").  I will frequently re-use *portions* of a sound in other sounds.  Again, treat your samples like ingredients.
-* Sounds that start "late" - your sounds should have little to no silence at the beginning
+* Sounds that start "late" - your sounds should have little to no silence (0.01 seconds max) at the beginning
 * Sounds that end "early" - your sounds should always fade to silence.  
 * Clicks/Pops in your loops
 
