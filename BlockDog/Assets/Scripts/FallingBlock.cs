@@ -100,12 +100,12 @@ public class FallingBlock : MonoBehaviour {
                 //CameraControl.me.Flash(.1f);
                 StartCoroutine(FlashYourself());
 
-
             }
 
             //NewSound
             AudioDirector.Instance.PlaySound(AudioDirector.Instance.blockImpact, true, transform.position.x, AudioDirector.Instance.blockLandVolume, 0.2f);
-            Debug.Log("Played Block Impact Sound");
+
+
 
         }
         if (coll.gameObject.tag == "Player" && coll.gameObject.transform.position.y < transform.position.y - .5f && prevVel.y < -14f) {
