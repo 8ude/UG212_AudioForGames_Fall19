@@ -3,8 +3,22 @@ Repo for the 2019 class of audio for digital games
 
 See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki) for Syllabus, Helpful Links, and Assignment Details
 
+
+WEEK 5 ASSIGNMENT- 2D reskin part 2
+------
+Your creative director applauds your efforts, but wants to go in a different direction for the audio design.  
+
+They've provided you with a small sample library [HERE](https://drive.google.com/open?id=1gTzzobw4IQcwLJIKrsFeFn536grhg8uY)
+
+You can do whatever you want with these samples, but cannot use audio from anywhere else!
+
+When you're done, please [UPLOAD YOUR BUILDS HERE](https://drive.google.com/open?id=1IA6SpDKDv2q87_Z3L-OjIF8Wn2oItwgF)
+
+
 WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
+
+
 Gabe Cuzzillo's wonderful game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub, and give it sound!
 
 You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Game Sound Effects**. The minimum is to create **13** assets for the game.  2 of these are loops - the Danger Loop and the Background Music ( which could also be background ambience, if you prefer)
