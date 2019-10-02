@@ -105,8 +105,6 @@ public class FallingBlock : MonoBehaviour {
             //NewSound
             AudioDirector.Instance.PlaySound(AudioDirector.Instance.blockImpact, true, transform.position.x, AudioDirector.Instance.blockLandVolume, 0.2f);
 
-
-
         }
         if (coll.gameObject.tag == "Player" && coll.gameObject.transform.position.y < transform.position.y - .5f && prevVel.y < -14f) {
             if (Mathf.Abs(coll.transform.position.x - transform.position.x) > .5f) {

@@ -230,9 +230,7 @@ public class Grid : MonoBehaviour {
 
                     //NewSound
                     //Turn warning loop off
-                    AudioDirector.Instance.FadeOutAudio(
-                            AudioDirector.Instance.dangerSource,
-                            0.15f);
+                    AudioDirector.Instance.FadeOutAudio(AudioDirector.Instance.dangerSource, 0.15f);
 
                     EndGame();
                 }
