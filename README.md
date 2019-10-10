@@ -3,6 +3,19 @@ Repo for the 2019 class of audio for digital games
 
 See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki) for Syllabus, Helpful Links, and Assignment Details
 
+WEEK 6 ASSIGNMENT- Recording
+------
+
+Make 3 sound effects from recordings.  These can either be from the foley studio (we will have access from 5 pm until 6:40 on Friday), or that you record yourself.  Try to do some noise removal in reaper or audition.  
+
+Then, name them with the material, the type of motion used, and whether there is one sound or multiple.  For example: WoodCrashMultiple.wav
+
+Upload the [SFX HERE](https://drive.google.com/drive/folders/1bxTBICuxTP3LAHdhUkgpVgHjwvpqQTKK?usp=sharing)
+
+In addition, record 3 ambience layers from interesting spaces (They **cannot** be spaces at the game center, and only one of them can be the subway!).  Your phone will work fine for this, but keep your headphones on when you're recording - your microphone is not hearing the same thing as your ears.
+
+Upload the [ambiences HERE](https://drive.google.com/drive/folders/1Dg6QkHwijHuIQ4RKWVfICd6CPoehCPs3?usp=sharing)
+
 
 WEEK 5 ASSIGNMENT- 2D reskin part 2
 ------
