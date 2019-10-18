@@ -3,6 +3,38 @@ Repo for the 2019 class of audio for digital games
 
 See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki) for Syllabus, Helpful Links, and Assignment Details
 
+WEEK 7/8 ASSIGNMENT - 3D RESKIN
+------
+The game *Otto the Combo Butler* is filled with placeholder sounds, and needs new audio!  Clone the repo, open the Otto Project in both Unity and FMOD, and replace the audio.
+
+There will be a **progress check on October 25** - aim for about half of the sounds in the game.  Builds will be due on **Nov 5th**
+
+A lot of the work is going to be done in FMOD studio.  You may need to work in Unity a bit to make more emitters, or to code additional parameters if you choose.
+
+You must use **at least 3 sounds that you've recorded yourself.**  Additionally, you can use:
+* Whatever you find on the internet, or in the Audio for Digital Games Library
+* Any effects.
+
+
+I'm essentially looking for the same thing with the 2D game:
+
+* clarity of actions (can I tell what's going on based on sound?) 
+* consistency (does the sound seem to match with the visuals and animations?)
+and, most importantly, 
+* a sense of style/aesthetics (are the sounds augmenting the game in a way that gives it life and character?).
+
+But now, you have the added challenge of:
+* making distinctive/believable spaces
+
+You will lose points for:
+* Any Unmodified samples.  You need to modify and/or layer the sounds from freesound in some way (changing pitch, stretching, adding effects, etc).
+* Repeating sounds for different actions  Again, treat your samples like ingredients.
+* Sounds that start "late" - your sounds should have little to no silence (0.01 seconds max) at the beginning
+* (an exception to this may be the door sounds, which we will talk about in class)
+* Sounds that end "early" - your sounds should always fade to silence.
+* Loops with clearly audible seams (I can tell when the loop repeats)
+
+
 WEEK 6 ASSIGNMENT- Recording
 ------
 
