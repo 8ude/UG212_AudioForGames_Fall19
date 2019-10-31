@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{c4ca491f-c968-4fbc-b84b-f71ebe9c081a}">
+		<property name="assetPath">
+			<value>Impact Wood Shake Earthquake Ground Shake 01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.7327083333333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ca4b7001-1557-45e4-8c74-520bd8c68e95}</destination>
+		</relationship>
+	</object>
+</objects>

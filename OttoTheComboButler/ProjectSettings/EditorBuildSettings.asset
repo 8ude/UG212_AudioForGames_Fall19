@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/playscenetest.unity
+    path: Assets/IntroScene.unity
     guid: 639427e73aa62674491da3c5f251cfc6
   - enabled: 1
     path: Assets/Cupid.unity
@@ -14,3 +14,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EndScreen.unity
     guid: b4d4e85e0f2e96c4d8d87bf5baa8aab4
+  m_configObjects: {}

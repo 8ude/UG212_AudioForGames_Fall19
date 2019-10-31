@@ -15,6 +15,7 @@ public class MainMenu : MonoBehaviour {
     public void PlayGame()
     {
         Debug.Log("Playing Game. ");
+        Debug.Log("Build Index = " + SceneManager.GetActiveScene().buildIndex.ToString());
         AudioManager.instance.PlayGameStartSound();
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
