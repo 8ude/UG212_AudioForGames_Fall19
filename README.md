@@ -3,6 +3,17 @@ Repo for the 2019 class of audio for digital games
 
 See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki) for Syllabus, Helpful Links, and Assignment Details
 
+WEEK 9 ASSIGNMENT - 3D SOUNDSPACE
+------
+Using Resonance Audio and Unity, create a sonic environment/walking simulator that makes use of the following:
+
+- At least one ambisonic file
+- At least 5 audio sources that make use of the resonance audio features (directionality, occlusion, etc)
+- At least 3 distinct reverb spaces
+
+I recommend starting from the ResonanceAudioDemo scene in the unity package.
+
+
 WEEK 7/8 ASSIGNMENT - 3D RESKIN
 ------
 The game *Otto the Combo Butler* is filled with placeholder sounds, and needs new audio!  Clone the repo, open the Otto Project in both Unity and FMOD, and replace the audio.
