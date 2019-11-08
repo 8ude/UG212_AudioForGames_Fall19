@@ -13,6 +13,8 @@ Using Resonance Audio and Unity, create a sonic environment/walking simulator th
 
 I recommend starting from the ResonanceAudioDemo scene in the unity package.
 
+[Upload your builds here when you're done](https://drive.google.com/drive/folders/1QAqkLe09Uu9ftI0hfBujlyQ3d99V4DdB?usp=sharing) (Windows preferred)
+
 
 WEEK 7/8 ASSIGNMENT - 3D RESKIN
 ------
