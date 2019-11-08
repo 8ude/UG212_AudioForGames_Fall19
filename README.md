@@ -7,7 +7,7 @@ WEEK 9 ASSIGNMENT - 3D SOUNDSPACE
 ------
 Using Resonance Audio and Unity, create a sonic environment/walking simulator that makes use of the following:
 
-- At least one ambisonic file
+- ~~At least one ambisonic file~~ (no longer a requirement, but let me know if you want to make one and need help!)
 - At least 5 audio sources that make use of the resonance audio features (directionality, occlusion, etc)
 - At least 3 distinct reverb spaces
 
