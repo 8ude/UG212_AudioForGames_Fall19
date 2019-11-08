@@ -5,6 +5,8 @@ See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki) for Syll
 
 WEEK 9 ASSIGNMENT - 3D SOUNDSPACE
 ------
+Due Tuesday, Nov 12
+
 Using Resonance Audio and Unity, create a sonic environment/walking simulator that makes use of the following:
 
 - ~~At least one ambisonic file~~ (no longer a requirement, but let me know if you want to make one and need help!)
