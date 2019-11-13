@@ -3,6 +3,24 @@ Repo for the 2019 class of audio for digital games
 
 See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki) for Syllabus, Helpful Links, and Assignment Details
 
+WEEK 11 ASSIGNMENT - MUSIC
+------
+
+Pick a screenshot or box art from [HERE](https://drive.google.com/open?id=12qiPQRp3esnnQXWAuZJFnsE81Eehc0lp) as a point of inspiration!  You can find your own, but it will help if you don't already know the music!
+
+Make 2 sections of music - think of them as an "A section" and a "B section."  Here's a [Sample Reaper Project with some instruments set up](https://drive.google.com/file/d/1T7Pv7u1g1VZosPoHqLuHV9vSawDRu1ma/view?usp=sharing). If you don't like working in Reaper, I recommend trying something like [Bosca Ceoil](https://boscaceoil.net/) or [BandLab](https://www.bandlab.com/)
+
+You can make use of some of the apps and plugins on the [Musical Resources Page](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki/Musical-Resources)
+
+Bring the Stems (Melody, Bass, Percussion, etc) into FMOD and add some interactivity that you connect to a parameter.  
+
+Some ideas (just suggestions, use what works for your music):
+- have instruments fade in/out based on a "PlayerStatus" parameter
+- change song sections based on a "PlayerLocation" parameter
+- make some ambient fragments, then use the ScattererInstrument to trigger them at random
+
+When you're done, zip your FMOD Project and [UPLOAD IT HERE](https://drive.google.com/drive/folders/1kC0ewoHoJ6sX8asBrU5fLippFZvlR_P_?usp=sharing)
+
 WEEK 9 ASSIGNMENT - 3D SOUNDSPACE
 ------
 Due Tuesday, Nov 12
