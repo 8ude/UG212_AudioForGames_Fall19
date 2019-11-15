@@ -12,7 +12,7 @@ Make 2 sections of music - think of them as an "A section" and a "B section."  H
 
 You can make use of some of the apps and plugins on the [Musical Resources Page](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki/Musical-Resources)
 
-Bring the Stems (Melody, Bass, Percussion, etc) into FMOD and add some interactivity that you connect to a parameter.  
+Bring the Stems (Melody, Bass, Percussion, etc) into FMOD and add some interactivity that you connect to a parameter.  If you need some reference on how to do this, [here's the example projet I made during class](https://drive.google.com/open?id=12fZsPawPdgs0_fECeIlIjPi6iZxvF4so)
 
 Some ideas (just suggestions, use what works for your music):
 - have instruments fade in/out based on a "PlayerStatus" parameter
