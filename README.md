@@ -19,7 +19,7 @@ Some ideas (just suggestions, use what works for your music):
 - change song sections based on a "PlayerLocation" parameter
 - make some ambient fragments, then use the ScattererInstrument to trigger them at random
 
-When you're done, zip your FMOD Project and [UPLOAD IT HERE](https://drive.google.com/drive/folders/1kC0ewoHoJ6sX8asBrU5fLippFZvlR_P_?usp=sharing)
+When you're done, zip your FMOD Project and [UPLOAD IT HERE](https://drive.google.com/drive/folders/1AuNa0kngBf8degvQV2KMKCGPsMr4G_Nz?usp=sharing)
 
 WEEK 9 ASSIGNMENT - 3D SOUNDSPACE
 ------
