@@ -3,6 +3,27 @@ Repo for the 2019 class of audio for digital games
 
 See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall19/wiki) for Syllabus, Helpful Links, and Assignment Details
 
+FINAL PROJECT - AUDIO ONLY GAME
+------
+
+Your final project for this class is going to be to make an **audio only game** - as in, a game that has no visual feedback.
+
+If you need some inspiration, [here is a website dedicted to audio-only games](https://audiogames.net/list-games/)
+
+You can work in groups (no more than 3 please), and you can use Unity and whatever tools you've used in the class.
+
+On **Tuesday Dec 3** I will be doing a progress check, and would like to hear something playable!
+
+You will present your games at the last class on **Friday Dec 13** 
+
+Put your final build together with a text or pdf file that contains:
+- your game name
+- your team members names
+- instructions on how to play
+
+And upload a compressed file [HERE](https://drive.google.com/drive/folders/1C0pWb5ouLrxaaEbeJQix8bRc6VGTRd4N?usp=sharing)
+
+
 WEEK 11 ASSIGNMENT - MUSIC
 ------
 
