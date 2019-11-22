@@ -8,7 +8,7 @@ FINAL PROJECT - AUDIO ONLY GAME
 
 Your final project for this class is going to be to make an **audio only game** - as in, a game that has no visual feedback.
 
-If you need some inspiration, [here is a website dedicted to audio-only games](https://audiogames.net/list-games/)
+[Here's a list of ideas that we generated in class](https://github.com/8ude/UG212_AudioForGames_Fall19/blob/master/AudioOnlyGameIdeas).  If you need some more inspiration, [here is a website dedicted to audio-only games](https://audiogames.net/list-games/)
 
 A few favorites of mine:
 
