@@ -10,6 +10,14 @@ Your final project for this class is going to be to make an **audio only game** 
 
 If you need some inspiration, [here is a website dedicted to audio-only games](https://audiogames.net/list-games/)
 
+A few favorites of mine:
+
+[Deep Sea by Robin Arnott](https://vimeo.com/17299509) (a No Quarter comission!)
+
+[Papa Sangre](https://www.youtube.com/watch?v=jxXwotksBdM)
+
+[Nightjar](https://www.youtube.com/watch?v=zeBFCQ-aBds) - also by the developers of Papa Sangre.  Unfortunately, a lot of the good audio only games were only on iOS.  The let's plays are all that's left.
+
 You can work in groups (no more than 3 please), and you can use Unity and whatever tools you've used in the class.
 
 On **Tuesday Dec 3** I will be doing a progress check, and would like to hear something playable!
