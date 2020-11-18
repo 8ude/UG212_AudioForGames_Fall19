@@ -20,9 +20,9 @@ A few favorites of mine:
 
 You can work in groups (no more than 3 please), and you can use Unity and whatever tools you've used in the class.
 
-On **Tuesday Dec 3** I will be doing a progress check, and would like to hear something playable!
+On **Wednesday Dec 2** I will be doing a progress check, and would like to hear something playable!
 
-You will present your games at the last class on **Friday Dec 13** 
+You will present your games at the last class on **Wednesday Dec 13** 
 
 Put your final build together with a text or pdf file that contains:
 - your game name
